@@ -6,6 +6,6 @@ This project introduced me to foundational JavaScript syntax. The app logs the w
 ## What I Learned
   - Declaring variables and logging their values
   - Using a variable to set the value of a different variable
-  - Using basic arithmetic calculations in JavaScript
+  - Using operators to make calculations
   - The Math.floor() function
   - Using ${ } string interpolation
